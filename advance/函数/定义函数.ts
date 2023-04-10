@@ -13,3 +13,4 @@ function fn2(str: string): string  {
 fn('hello')
 fn2('hello')
 fn2(1) // error
+fn(1) // error
