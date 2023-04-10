@@ -5,4 +5,5 @@ type People = {
     school: string
     favorite: string
     address: string
+    birthday: string
 }
