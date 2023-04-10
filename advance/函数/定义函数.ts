@@ -8,3 +8,6 @@ const fn: fnType = (str) => {
 function fn2(str: string): string  {
     return str
 }
+
+// test
+fn('hello')
