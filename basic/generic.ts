@@ -3,4 +3,6 @@ type People = {
     age: number
     sex: string
     school: string
+    favorite: string
+    adress: string
 }
