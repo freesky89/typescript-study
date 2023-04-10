@@ -7,4 +7,5 @@ type People = {
     birthday: string
     hobby: string
     job: string
+    salary: number
 }
