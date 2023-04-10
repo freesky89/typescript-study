@@ -3,7 +3,7 @@ type People = {
     age: number
     sex: string
     school: string
-    favorite: string
     address: string
     birthday: string
+    hobby: string
 }
