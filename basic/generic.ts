@@ -8,4 +8,5 @@ type People = {
     hobby: string
     job: string
     salary: number
+    district: string
 }
