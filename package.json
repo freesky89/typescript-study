@@ -1,0 +1,26 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "> 记录下typescript高级语法，方便后期查阅",
+  "main": "index.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingzidong/typescript-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pingzidong/typescript-study/issues"
+  },
+  "homepage": "https://github.com/pingzidong/typescript-study#readme"
+}
