@@ -6,4 +6,5 @@ type People = {
     address: string
     birthday: string
     hobby: string
+    job: string
 }
