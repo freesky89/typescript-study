@@ -12,4 +12,5 @@ type People = {
     province: string
     bian: string
     city: string
+    country: string
 }
