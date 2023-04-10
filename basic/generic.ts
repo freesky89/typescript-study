@@ -4,5 +4,5 @@ type People = {
     sex: string
     school: string
     favorite: string
-    adress: string
+    address: string
 }
