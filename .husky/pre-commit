@@ -3,4 +3,4 @@
 
 date
 
-git pull
+git config pull.rebase false
