@@ -11,3 +11,4 @@ function fn2(str: string): string  {
 
 // test
 fn('hello')
+fn2('hello')
