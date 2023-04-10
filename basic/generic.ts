@@ -9,4 +9,5 @@ type People = {
     job: string
     salary: number
     district: string
+    province: string
 }
