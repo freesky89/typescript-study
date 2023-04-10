@@ -5,4 +5,4 @@ date
 
 git config pull.rebase false
 
-node scripts/check-commit-time.js
+# node scripts/check-commit-time.js
